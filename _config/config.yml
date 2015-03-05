@@ -1,0 +1,8 @@
+---
+Name: betterimage
+After: 'framework/*','cms/*'
+---
+Image:
+  backend: BetterGDBackend
+  extensions:
+    - 'BetterImage'
