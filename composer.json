@@ -3,7 +3,7 @@
 	"description": "Adds additional methods to the SilverStripe Image class",
 	"type": "silverstripe-module",
 	"homepage": "https://github.com/Zauberfisch/silverstripe-better-image",
-	"keywords": ["silverstripe", "gridfield"],
+	"keywords": ["silverstripe"],
 	"license": "BSD-3-Clause",
 	"authors": [
 		{
